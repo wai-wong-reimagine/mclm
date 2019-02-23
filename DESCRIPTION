@@ -1,0 +1,14 @@
+Package: mclm
+Type: Package
+Title: Mastering Corpus Linguistics Methods
+Version: 0.2
+Date: 2017-10-13
+Author: Dirk Speelman <dirk.speelman@kuleuven.be>
+Maintainer: Dirk Speelman <dirk.speelman@kuleuven.be>
+Description: Various functions in support of quantitative corpus linguistics.
+Depends: ca
+Imports: dplyr, stringr, tm, XML
+Suggests: MASS
+License: GPL (>=2)
+NeedsCompilation: no
+Packaged: 2017-11-13 18:30:44 UTC; u0013279
